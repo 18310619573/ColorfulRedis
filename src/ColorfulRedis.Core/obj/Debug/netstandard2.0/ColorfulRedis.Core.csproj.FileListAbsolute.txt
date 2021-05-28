@@ -1,8 +1,0 @@
-E:\code\ColorfulRedis\src\ColorfulRedis.Core\bin\Debug\netstandard2.0\ColorfulRedis.Core.deps.json
-E:\code\ColorfulRedis\src\ColorfulRedis.Core\bin\Debug\netstandard2.0\ColorfulRedis.Core.dll
-E:\code\ColorfulRedis\src\ColorfulRedis.Core\bin\Debug\netstandard2.0\ColorfulRedis.Core.pdb
-E:\code\ColorfulRedis\src\ColorfulRedis.Core\obj\Debug\netstandard2.0\ColorfulRedis.Core.AssemblyInfoInputs.cache
-E:\code\ColorfulRedis\src\ColorfulRedis.Core\obj\Debug\netstandard2.0\ColorfulRedis.Core.AssemblyInfo.cs
-E:\code\ColorfulRedis\src\ColorfulRedis.Core\obj\Debug\netstandard2.0\ColorfulRedis.Core.csproj.CoreCompileInputs.cache
-E:\code\ColorfulRedis\src\ColorfulRedis.Core\obj\Debug\netstandard2.0\ColorfulRedis.Core.dll
-E:\code\ColorfulRedis\src\ColorfulRedis.Core\obj\Debug\netstandard2.0\ColorfulRedis.Core.pdb
